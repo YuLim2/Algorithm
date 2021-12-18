@@ -15,3 +15,9 @@
 - ### <a href="https://velog.io/@yulim2/Algorithm-%ED%83%90%EC%83%89-Exploring"> 탐색 </a>
     - <a href="https://velog.io/@yulim2/Algorithm-%EC%88%9C%EC%B0%A8%ED%83%90%EC%83%89-Sequential-Search">순차탐색</a>
     - <a href="https://velog.io/@yulim2/Algorithm-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-Binary-Search">인진탐색</a>
+
+<br>
+
+- ### <a href="https://velog.io/@yulim2/Algorithm-%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%EB%B2%95-Divide-and-Conquer">분할정복법</a>
+
+
