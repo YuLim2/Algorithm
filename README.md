@@ -9,6 +9,7 @@
     - <a href="https://velog.io/@yulim2/Algorithm-%EC%82%BD%EC%9E%85-%EC%A0%95%EB%A0%AC-Insertion-Sort">삽입정렬</a>
     - <a href="https://velog.io/@yulim2/Algorithm-%EB%B2%84%EB%B8%94-%EC%A0%95%EB%A0%AC-Bubble-Sort">버블정렬</a>
     - <a href="https://velog.io/@yulim2/Algorithm-%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-Selection-Sort">선택정렬</a>
+    - <a href="https://velog.io/@yulim2/Algorithm-%ED%80%B5%EC%A0%95%EB%A0%AC-Quick-Sort">퀵정렬</a>
 
 <br>
 
