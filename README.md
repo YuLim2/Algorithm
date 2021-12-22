@@ -10,7 +10,6 @@
     - <a href="https://velog.io/@yulim2/Algorithm-%EB%B2%84%EB%B8%94-%EC%A0%95%EB%A0%AC-Bubble-Sort">버블정렬</a>
     - <a href="https://velog.io/@yulim2/Algorithm-%EC%84%A0%ED%83%9D-%EC%A0%95%EB%A0%AC-Selection-Sort">선택정렬</a>
 
-
 <br>
 
 - ### <a href="https://velog.io/@yulim2/Algorithm-%ED%83%90%EC%83%89-Exploring"> 탐색 </a>
@@ -23,4 +22,7 @@
     - <a href="https://velog.io/@yulim2/Algorithm-%ED%80%B5%EC%A0%95%EB%A0%AC-Quick-Sort">퀵정렬</a>
     - <a href="https://velog.io/@yulim2/Algorithm-%ED%95%A9%EB%B3%91%EC%A0%95%EB%A0%AC-Merge-Sort">합병정렬</a>
 
+<br>
+
+- ### <a href="https://velog.io/@yulim2/Algorithm-%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95-Dynamic-Programming-DP">동적계획법</a>
 
