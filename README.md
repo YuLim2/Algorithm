@@ -14,7 +14,7 @@
 
 - ### <a href="https://velog.io/@yulim2/Algorithm-%ED%83%90%EC%83%89-Exploring"> 탐색 </a>
     - <a href="https://velog.io/@yulim2/Algorithm-%EC%88%9C%EC%B0%A8%ED%83%90%EC%83%89-Sequential-Search">순차탐색</a>
-    - <a href="https://velog.io/@yulim2/Algorithm-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-Binary-Search">인진탐색</a>
+    - <a href="https://velog.io/@yulim2/Algorithm-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-Binary-Search">진탐색</a>
     - <a href="https://velog.io/@yulim2/Algorithm-%ED%95%B4%EC%8B%B1-Hashing">해싱</a>
         - <a href="https://velog.io/@yulim2/Algorithm-%EC%84%A0%ED%98%95%EC%A1%B0%EC%82%AC%EB%B2%95-Linear-Probing">선형조사법</a>
         - <a href="https://velog.io/@yulim2/Algorithm-%EC%9D%B4%EC%B0%A8%EC%A1%B0%EC%82%AC%EB%B2%95-Quadratic-Probing">이차조사법</a>
